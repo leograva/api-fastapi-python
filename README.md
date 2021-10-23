@@ -1,8 +1,9 @@
 # api-fastapi-python
 API Simples com python utilizando a biblioteca FastApi
 
-Para rodar esse script são necessárias duas bibliotecas
--Fastapi
+Para rodar esse script são necessárias duas bibliotecas:
+
+- Fastapi:
 Comando de instalação: pip install fastapi
 
 - Uvicorn: 
